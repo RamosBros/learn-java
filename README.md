@@ -1,2 +1,47 @@
-# learn-java
-Lets learn Java Programming
+# LEARN JAVA
+
+LEARN JAVA is a simple project to get hands-on experience with JAVA concepts and OOP.
+
+Hey, we are going to learn the ins and outs of Java.
+
+Here we are going to follow this tutorial guide as a base for our learning. 
+https://www.tutorialspoint.com/java/index.htm
+
+https://www.javatpoint.com/java-tutorial
+
+## Download Project
+
+Use git hub
+1) navigate to project ```RamosBros/learn-java``` 
+2) Click the green ```Code``` button
+3) Copy the https link
+4) Run the following command
+
+```bash
+git clone https://github.com/RamosBros/learn-java.git
+```
+
+## Github learn
+
+https://www.freecodecamp.org/news/git-cheat-sheet/
+
+https://javinpaul.medium.com/top-10-free-courses-to-learn-git-and-github-best-of-lot-967aa314ea
+
+Brush up on some git knowledge 
+
+Most likely to just use the following commands
+```bash
+git add filename
+git status
+git commit -m "message here"
+git log
+git pull 
+```
+
+## Contributing
+Add whatever youd like!
+Lets try and keep work in separate branches and then push to master when we think its good!
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
