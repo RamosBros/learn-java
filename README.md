@@ -13,6 +13,7 @@ https://www.javatpoint.com/java-tutorial
 ## Download Project
 
 Use git hub
+(Brian was here)
 1) navigate to project ```RamosBros/learn-java``` 
 2) Click the green ```Code``` button at the top of project
 3) Copy the https link
