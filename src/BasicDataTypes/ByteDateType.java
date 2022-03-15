@@ -1,4 +1,4 @@
-package BasicDataTypes;
+package basicdatatypes;
 
 /**
  * Byte data type is an 8-bit signed two's complement integer
@@ -29,7 +29,7 @@ public class ByteDateType {
      * Ask yourself why we need to return an int in this case?
      * Why cant we return a byte back?
      * 
-     * @param first num
+     * @param first  num
      * @param second num
      * @return sum of nums
      */
