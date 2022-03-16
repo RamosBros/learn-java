@@ -9,6 +9,10 @@ import basicclass.UselessClass;
  * 
  * Can make an array with any Object really
  * 
+ * an array in Java is bounded, and you will get
+ * ArrayIndexOutOfBoundException if you are working with an invalid index.
+ * Array in Java are also homogeneous
+ * 
  * lets see some examples
  */
 public class ArraysExample {
@@ -47,12 +51,15 @@ public class ArraysExample {
 
         // This is how we add something to an array
         // arrays are a fixed length when created
-        words[index] = word;
+        words[index] = "overwrite";
 
         // Reading the code what would happen in the follwing?
         words[3] = "IsThisPossible";
 
         // with arrays, the data that was in that element is lost
         // once it is overwritten
+        // In this example we overwrote what was in the index possition
+        // with the word that was passed in
+        words[index] = word;
     }
 }
