@@ -6,6 +6,8 @@ Hey, we are going to learn the ins and outs of Java.
 
 Here we are going to follow this tutorial guide as a base for our learning. 
 
+https://www.journaldev.com/7153/core-java-tutorial
+
 https://www.tutorialspoint.com/java/index.htm
 
 https://www.javatpoint.com/java-tutorial
