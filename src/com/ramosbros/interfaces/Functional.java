@@ -1,9 +1,11 @@
 package com.ramosbros.interfaces;
 
+import com.ramosbros.core.food.Food;
+
 public interface Functional {
-    public void eat();
+    void eat(Food food);
 
-    public void poop();
+    void poop();
 
-    public void sleep();
+    void sleep(float hours);
 }

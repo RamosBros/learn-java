@@ -1,9 +1,9 @@
-package com.ramosbros.core;
+package com.ramosbros.useless;
 
 public class BreakStatement {
 
     public void LabeledBreakExample() {
-        int[][] arr = { { 1, 2 }, { 3, 4 }, { 9, 10 }, { 11, 12 } };
+        int[][] arr = {{1, 2}, {3, 4}, {9, 10}, {11, 12}};
         boolean found = false;
         int row = 0;
         int col = 0;
@@ -24,7 +24,7 @@ public class BreakStatement {
     }
 
     public void UnlabledBreakExample() {
-        String[] arr = { "A", "E", "I", "O", "U" };
+        String[] arr = {"A", "E", "I", "O", "U"};
 
         // find O in the array using for loop
         for (int len = 0; len < arr.length; len++) {
