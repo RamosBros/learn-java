@@ -1,6 +1,6 @@
-package datastructures;
+package com.ramosbros.datastructures;
 
-import basicclass.UselessClass;
+import com.ramosbros.basicclass.UselessClass;
 
 /**
  * What is an array?

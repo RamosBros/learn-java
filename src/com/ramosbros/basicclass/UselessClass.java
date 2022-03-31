@@ -1,4 +1,4 @@
-package basicclass;
+package com.ramosbros.basicclass;
 
 public class UselessClass {
     private String firstName;

@@ -1,4 +1,4 @@
-package datastructures;
+package com.ramosbros.datastructures;
 
 public class DataStructures {
     private ArraysExample arraysExample;

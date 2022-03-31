@@ -1,4 +1,4 @@
-package algorithms;
+package com.ramosbros.algorithms;
 
 public class MaxContiguousSubarray {
 

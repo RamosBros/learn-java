@@ -1,4 +1,4 @@
-package interfaces;
+package com.ramosbros.interfaces;
 
 public interface Functional {
     public void eat();

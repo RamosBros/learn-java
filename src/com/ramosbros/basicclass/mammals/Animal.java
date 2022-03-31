@@ -1,6 +1,6 @@
-package basicclass.mammals;
+package com.ramosbros.basicclass.mammals;
 
-import interfaces.Functional;
+import com.ramosbros.interfaces.Functional;
 
 // This is how we can create a class with an interface
 // implement the methods in the interface

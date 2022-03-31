@@ -1,4 +1,4 @@
-package basicclass.mammals;
+package com.ramosbros.basicclass.mammals;
 
 public class Cat extends Animal {
 

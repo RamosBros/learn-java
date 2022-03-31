@@ -1,4 +1,4 @@
-package algorithms;
+package com.ramosbros.algorithms;
 
 import java.util.HashMap;
 import java.util.Map;

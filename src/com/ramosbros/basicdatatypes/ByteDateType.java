@@ -1,4 +1,4 @@
-package basicdatatypes;
+package com.ramosbros.basicdatatypes;
 
 /**
  * Byte data type is an 8-bit signed two's complement integer

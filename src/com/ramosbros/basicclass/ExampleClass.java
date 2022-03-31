@@ -1,4 +1,4 @@
-package basicclass;
+package com.ramosbros.basicclass;
 
 /**
  * This is the class name
