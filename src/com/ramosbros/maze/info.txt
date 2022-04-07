@@ -1,0 +1,2 @@
+This whole package is an example of the builder patter
+https://refactoring.guru/design-patterns/builder
