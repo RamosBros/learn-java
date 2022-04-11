@@ -33,6 +33,8 @@ https://javinpaul.medium.com/top-10-free-courses-to-learn-git-and-github-best-of
 
 Brush up on some git knowledge 
 
+https://www.freecodecamp.org/news/git-for-professionals/
+
 Most likely to just use the following commands
 ```bash
 git add filename
